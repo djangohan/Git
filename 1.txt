@@ -5,3 +5,4 @@ test for confict
 =======
 add merge
 >>>>>>> test
+add merge

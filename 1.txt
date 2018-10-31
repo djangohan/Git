@@ -2,3 +2,4 @@ test
 test for branch test:
 test for confict
 test for branch test
+add merge
